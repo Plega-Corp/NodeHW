@@ -31,7 +31,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
+IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -548,24 +548,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=SmartParts1.PartsDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document32]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=Node.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -938,98 +921,26 @@ DocumentPath=Project Outputs for Node\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for Node\NC Drill\Node-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument91]
-DocumentPath=Project Outputs for Node\NC Drill\Node-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument92]
-DocumentPath=Project Outputs for Node\NC Drill\Node.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument93]
-DocumentPath=Project Outputs for Node\Gerber\Node.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument94]
-DocumentPath=Project Outputs for Node\Gerber\Node.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument95]
-DocumentPath=Project Outputs for Node\Gerber\Node.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument96]
-DocumentPath=Project Outputs for Node\Gerber\Node.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument97]
-DocumentPath=Project Outputs for Node\Gerber\Node.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument98]
-DocumentPath=Project Outputs for Node\Gerber\Node.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument99]
-DocumentPath=Project Outputs for Node\Gerber\Node.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument100]
-DocumentPath=Project Outputs for Node\Gerber\Node.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument101]
-DocumentPath=Project Outputs for Node\Gerber\Node.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument102]
-DocumentPath=Project Outputs for Node\Gerber\Node.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument103]
-DocumentPath=Project Outputs for Node\Gerber\Node.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument104]
-DocumentPath=Project Outputs for Node\Gerber\Node.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument105]
-DocumentPath=Project Outputs for Node\NC Drill\Node.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument106]
-DocumentPath=Project Outputs for Node\Gerber\Node.REP
-DItemRevisionGUID=
-
-[GeneratedDocument107]
 DocumentPath=Project Outputs for Node\ODB\Node.REP
 DItemRevisionGUID=
 
-[GeneratedDocument108]
-DocumentPath=Project Outputs for Node\Gerber\Node.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument109]
+[GeneratedDocument91]
 DocumentPath=Project Outputs for Node\Pick Place\Pick Place for Node.csv
 DItemRevisionGUID=
 
-[GeneratedDocument110]
+[GeneratedDocument92]
 DocumentPath=Project Outputs for Node\Pick Place\Pick Place for Node.txt
 DItemRevisionGUID=
 
-[GeneratedDocument111]
+[GeneratedDocument93]
 DocumentPath=Project Outputs for Node\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument112]
+[GeneratedDocument94]
 DocumentPath=Project Outputs for Node\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument113]
+[GeneratedDocument95]
 DocumentPath=Project Outputs for Node\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -1063,7 +974,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1165,22 +1076,32 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
+OutputType1=SIMetrixSimulation
+OutputName1=SIMetrix
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMPLISSimulation
+OutputName2=SIMPLIS
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1243,29 +1164,17 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=Wave Print
-OutputName10=Wave Prints
+OutputType10=PCBDrawing
+OutputName10=Draftsman
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=WaveSim Print
-OutputName11=WaveSim Prints
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=PCBDrawing
-OutputName12=Draftsman
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1287,7 +1196,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1361,7 +1270,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1398,7 +1307,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1578,7 +1487,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1617,7 +1526,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1668,7 +1577,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP6525D9 (HP Officejet Pro 8620)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1767,6 +1676,27 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
 
 [Difference Levels]
 Type1=1
@@ -1818,6 +1748,19 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1833,7 +1776,7 @@ Type10=1
 Type11=2
 Type12=2
 Type13=2
-Type14=0
+Type14=1
 Type15=1
 Type16=1
 Type17=1
@@ -1933,22 +1876,30 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNNNNNNWNNNWNNNWN
-L3=NNEENEEEENEWNEEWN
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NNEENEEEENEWNEEWW
-L10=NNNNNNNENNEWNNEWN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
-L14=NNEENEEEENEWNEEWW
+L14=NWEENEEEENEWNEEWW
 L15=NNENNNNEEENWNENWW
 L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
@@ -3346,7 +3297,7 @@ ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1

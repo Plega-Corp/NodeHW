@@ -1,0 +1,232 @@
+*************************************************************
+FileName = Node.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\ground_plane\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\ground_plane\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\power_plane\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\power_plane\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\panel_outline\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\panel_outline\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\fab_notes\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\fab_notes\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\board_dimensions\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\board_dimensions\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\panel_dimensions\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\panel_dimensions\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\mechanical_10\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\mechanical_10\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\mechanical_12\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\mechanical_12\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_assembly_layer\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_assembly_layer\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_assembly_layer\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_assembly_layer\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_placement_courtyard\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\top_placement_courtyard\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_placement_courtyard\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\bottom_placement_courtyard\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\route_tool_path\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\route_tool_path\attrlist
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_216\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_36\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_108\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_288\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_68\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_216\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_288\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect31.4961x70.8661xr7.874_288\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect31.4961x70.8661xr7.874_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect31.4961x70.8661xr7.874_216\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x49.2126_360\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x49.2126_324\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_324\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\s20.4724_54\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\s20.4724_268\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_252\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect49.2126x66.9291_72\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect31.4961x70.8661xr7.874_72\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_108\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_252\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_324\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect15.748x68.8976_252\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect15.748x68.8976_72\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect56.1024x98.4252_72\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\s20.4724_359\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\s20.4724_89\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\s40.1575_54\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect40.1575x90.1575_54\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect59.0551x35.4331_36\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect15.748x68.8976_36\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect15.748x68.8976_216\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect56.1024x98.4252_216\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect27.5591x47.2441_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect39.3701x47.2441_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect39.3701x31.4961_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect39.3701x110.2362_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect51.1811x74.8031_144\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect124.0157x70.0787_342\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect78.742x57.48_252\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect78.74x57.482_72\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect78.74x57.48_36\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\rect78.74x57.48_216\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval66.9291x47.2441_162\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval59.0551x43.3071_162\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval66.9291x47.2441_306\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval59.0551x43.3071_306\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oblong_th79.2441x59.5591x45x4x8_162\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oblong_th73.3386x57.5906x45x4x8_162\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oblong_th79.2441x59.5591x45x4x8_306\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oblong_th73.3386x57.5906x45x4x8_306\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval70.8661x51.1811_162\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval64.9606x49.2126_162\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval70.8661x51.1811_306\features
+
+Generated File : C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\ODB\odb\symbols\oval64.9606x49.2126_306\features
+

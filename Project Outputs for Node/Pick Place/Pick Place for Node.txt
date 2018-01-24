@@ -1,0 +1,320 @@
+Altium Designer Pick and Place Locations
+C:\Users\Steven\Dropbox\MAGE\Node\Node PCB Designs\Project Outputs for Node\Pick Place\Pick Place for Node.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/10/17
+Time:       14:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Center-X(mil) Center-Y(mil) Rotation         Layer       Footprint                 Value          
+P5         -275.590      -433.070      360              TopLayer    B2B-PH-K-S                               
+R57        866.143       -830.708      90               TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+U17        0.000         0.000         360              TopLayer    LFBGA144                                 
+P11        444.882       464.567       270              TopLayer    B2B-PH-K-S                               
+C1         -295.276      -944.881      90               TopLayer    CAPC0402(1005)60_L        100nF          
+C2         -326.772      153.543       360              TopLayer    CAPC0402(1005)60_L        20pF           
+C3         -385.827      854.330       360              TopLayer    CAPC0402(1005)60_L        1uF            
+C4         -287.402      39.369        360              TopLayer    CAPC0402(1005)60_L        100nF          
+C6         -287.402      74.802        360              TopLayer    CAPC0402(1005)60_L        100nF          
+C7         -385.827      795.276       180              TopLayer    CAPC0402(1005)60_L        1uF            
+C8         -653.544      157.480       90               TopLayer    CAPC0402(1005)60_L        20pF           
+C9         -55.118       795.276       90               TopLayer    CAPC0402(1005)60_L        100nF          
+C10        -307.087      -122.048      90               TopLayer    CAPC0402(1005)60_L        1uF            
+C12        1015.747      -566.929      180              TopLayer    CAPC0402(1005)60_L        100nF          
+C13        -204.724      -574.804      360              TopLayer    CAPC0402(1005)60_L        10uF           
+C14        -228.346      -641.732      180              TopLayer    CAPC1206(3216)190_N       4.7uF          
+C15        -129.921      -405.512      180              TopLayer    CAPC1206(3216)190_N       4.7uF          
+C16        444.882       -299.212      90               TopLayer    CAPC0402(1005)60_L        100nF          
+C17        744.096       -566.929      90               TopLayer    CAPC0402(1005)33_L        1pF            
+C18        779.527       -535.433      270              TopLayer    CAPC0402(1005)60_L        10uF           
+C19        814.961       -535.433      270              TopLayer    CAPC0402(1005)60_L        10uF           
+C20        748.032       228.346       90               TopLayer    CAPC0402(1005)60_L        3.3nF          
+C21        472.440       -570.866      90               TopLayer    CAPC0402(1005)60_L        10uF           
+C22        456.693       -625.983      180              TopLayer    CAPC0402(1005)60_L        100nF          
+C23        370.078       236.220       90               TopLayer    CAPC0402(1005)60_L        3.3nF          
+C24        708.661       -566.929      90               TopLayer    CAPC0402(1005)33_L        1pF            
+C25        972.442       -763.779      90               TopLayer    CAPC0402(1005)60_L        10uF           
+C26        1007.873      -763.779      90               TopLayer    CAPC0402(1005)60_L        10uF           
+C27        661.418       -763.779      270              TopLayer    CAPC0402(1005)60_L        10uF           
+C28        661.418       -897.647      90               TopLayer    CAPC0402(1005)60_L        100nF          
+C29        688.976       -397.638      360              TopLayer    CAPC0402(1005)60_L        3.3nF          
+C30        704.724       47.244        90               TopLayer    CAPC0402(1005)60_L        100nF          
+C52        -192.913      692.914       180              TopLayer    CAPC0402(1005)60_L        100nF          
+C83        799.212       -118.110      180              TopLayer    CAPC0402(1005)60_L        100nF          
+C84        799.212       -82.676       180              TopLayer    CAPC0402(1005)60_L        100nF          
+C86        -118.111      -263.780      90               TopLayer    CAPC0402(1005)60_L        20pF           
+C87        200.788       -224.409      180              TopLayer    CAPC0402(1005)60_L        100nF          
+C88        90.551        -279.527      180              TopLayer    CAPC0402(1005)60_L        20pF           
+C119       673.228       913.386       90               TopLayer    CAPC0402(1005)60_L        100nF          
+C122       188.976       -1035.432     90               TopLayer    CAPC0402(1005)60_L        100nF          
+C124       -748.032      724.410       0                TopLayer    CAPC0402(1005)60_L        100nF          
+C127       1019.685      -114.172      180              TopLayer    CAPC0402(1005)60_L        100nF          
+C128       -948.820      -448.819      90               TopLayer    CAPC0402(1005)60_L        100nF          
+C130       -196.850      1102.362      270              TopLayer    CAPC0402(1005)60_L        100nF          
+C131       141.732       582.677       270              TopLayer    NIC-CAPA2-8X10_V                         
+C133       -1141.732     177.165       2.113037109375   TopLayer    CAPC0402(1005)60_L        100nF          
+C135       -417.322      -893.701      360              TopLayer    CAPC0402(1005)60_L        100nF          
+C138       1013.780      521.654       180              TopLayer    CAPC0402(1005)60_L        100nF          
+C139       535.433       -1118.110     216              TopLayer    CAPC0402(1005)60_L        100nF          
+D5         -188.090      -1187.557     0                TopLayer    SFH-4645                                 
+D8         -545.860      1071.311      216              TopLayer    SFH-4645                                 
+DS1        -645.669      70.865        360              TopLayer    LTST-C190GKT_V                           
+DS2        -645.670      23.621        360              TopLayer    LTST-C190GKT_V                           
+DS3        153.543       -797.652      90               TopLayer    LTST-C190GKT_V                           
+DS4        204.725       -797.652      90               TopLayer    LTST-C190GKT_V                           
+DS5        255.907       -797.652      90               TopLayer    LTST-C190GKT_V                           
+FB1        854.331       -527.560      90               TopLayer    MURA-BLM18-RF-H4-CHIP-2_V                
+FB3        149.606       -251.969      270              TopLayer    MURA-BLM18-RF-H4-CHIP-2_V                
+L1         570.866       -460.630      360              TopLayer    TAYO-IND0315_V                           
+L2         759.843       -685.039      360              TopLayer    TAYO-IND0315_V                           
+P2         -131.497      -843.898      180              TopLayer    MHDR2X5                                  
+P4         -652.165      -172.048      270              TopLayer    MHDR2X3                                  
+P7         -972.440      -59.055       360              TopLayer    B2B-PH-K-S                               
+Q1         -811.024      -169.292      270              TopLayer    DIOD-SOT23-3_V                           
+Q2         649.606       271.654       270              TopLayer    DIOD-SOT23-3_V                           
+Q3         488.189       271.654       90               TopLayer    DIOD-SOT23-3_V                           
+Q4         586.614       -330.709      180              TopLayer    DIOD-SOT23-3_V                           
+Q8         948.818       -255.905      360              TopLayer    DIOD-SOT23-3_V                           
+Q9         807.087       -293.131      360              TopLayer    DIOD-SOT23-3_V                           
+R2         -27.560       -944.882      270              TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R4         -78.740       -944.882      270              TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R6         -181.103      -944.882      270              TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R8         -259.842      -944.882      270              TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R9         -342.519      -188.196      270              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R10        -811.024      -82.678       180              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R11        -724.409      70.865        180              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R12        -409.448      -161.416      360              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R13        -724.410      23.621        180              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R14        -618.110      -15.748       180              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R15        1015.748      -602.363      360              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R16        1015.748      -637.796      360              TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R17        114.173       -602.363      180              TopLayer    RESC0402(1005)_L          470.00 Ohm     
+R18        114.173       -566.929      180              TopLayer    RESC0402(1005)_L          470.00 Ohm     
+R19        -106.299      -700.788      270              TopLayer    RESC0402(1005)_L          178000.00 Ohm  
+R20        114.173       -531.495      180              TopLayer    RESC0402(1005)_L          470.00 Ohm     
+R21        82.678        -661.418      270              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R22        -70.865       -700.788      90               TopLayer    RESC0402(1005)_L          178000.00 Ohm  
+R23        673.228       -566.928      90               TopLayer    RESC0402(1005)_L          1000000.00 Ohm 
+R24        704.724       177.165       90               TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R25        437.009       -570.866      90               TopLayer    RESC0402(1005)_L          100.00 Ohm     
+R27        -35.433       -704.725      90               TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R28        748.384       161.417       90               TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R29        637.796       188.976       360              TopLayer    RESC0402(1005)_L          47000.00 Ohm   
+R30        385.827       287.402       180              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R31        452.756       354.330       360              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R32        476.378       141.732       90               TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R33        401.576       338.583       270              TopLayer    RESC0402(1005)_L          47000.00 Ohm   
+R34        570.863       169.288       360              TopLayer    RESC0402(1005)_L          1000000.00 Ohm 
+R35        704.724       114.173       270              TopLayer    RESC0402(1005)_L          47000.00 Ohm   
+R36        937.008       -763.779      90               TopLayer    RESC0402(1005)_L          1000000.00 Ohm 
+R37        366.142       338.583       90               TopLayer    RESC0402(1005)_L          1000000.00 Ohm 
+R38        547.244       122.048       360              TopLayer    RESC0402(1005)_L          47000.00 Ohm   
+R39        661.418       -830.718      90               TopLayer    RESC0402(1005)_L          100.00 Ohm     
+R40        0.000         -704.725      90               TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R41        688.977       -362.204      360              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R42        688.976       -291.338      180              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R43        492.127       -248.032      360              TopLayer    RESC0402(1005)_L          1000.00 Ohm    
+R44        688.976       -326.772      180              TopLayer    RESC0402(1005)_L          47000.00 Ohm   
+R45        688.977       -255.906      360              TopLayer    RESC0402(1005)_L          1000000.00 Ohm 
+R46        590.551       -240.157      360              TopLayer    RESC0402(1005)_L          47000.00 Ohm   
+R49        -208.661      641.732       90               TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R50        -618.111      570.867       180              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R62        322.834       -78.740       360              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R63        322.834       -122.048      360              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R66        732.283       -82.677       360              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R67        732.284       -118.110      180              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R77        240.157       -7.873        90               TopLayer    RESC0402(1005)_M          33.00 Ohm      
+R79        240.157       86.615        270              TopLayer    RESC0402(1005)_M          33.00 Ohm      
+R86        -364.174      -1141.732     270              TopLayer    RESC0805(2012)_M          33.00 Ohm      
+R89        -381.890      1169.291      306              TopLayer    RESC0805(2012)_M          33.00 Ohm      
+R90        948.820       -421.259      270              TopLayer    RESC0805(2012)_M          33.00 Ohm      
+R92        732.284       -153.543      180              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R93        732.284       -188.977      360              TopLayer    RESC0402(1005)_L          10000.00 Ohm   
+R94        822.835       -405.512      180              TopLayer    RESC1206(3216)_L          0.1Ohms        
+R95        161.416       1157.480      90               TopLayer    RESC0402(1005)_L          470.00 Ohm     
+SW1        -192.913      -1051.181     180              TopLayer    JNFU-TVAF06_V                            
+SW2        -811.023      -358.268      270              TopLayer    JNFU-TVAF06_V                            
+U1         933.071       73.819        180              TopLayer    ONSC-WDFN-8-511BN_V                      
+U3         -448.819      -7.874        270              TopLayer    32PG_N                                   
+U4         -448.819      -573.819      360              TopLayer    ONSC-WDFN-8-511BN_V                      
+U5         -39.370       -549.213      90               TopLayer    QFN-ML20_M                               
+U6         287.401       -555.118      270              TopLayer    TSSOP-ST14_L                             
+U7         570.867       -614.173      270              TopLayer    DRC0010J_V                               
+U8         555.118       -66.930       270              TopLayer    ADI-RU-14_N                              
+U9         759.842       -830.718      270              TopLayer    DRC0010J_V                               
+U10        -409.449      598.425       360              TopLayer    MCHP-SOIC-S2A8_L                         
+U20        519.050       1018.692      324              TopLayer    TSOP75x-TR                               
+U23        178.852       -1129.229     180              TopLayer    TSOP75x-TR                               
+U24        -808.438      808.438       36               TopLayer    TSOP75x-TR                               
+U27        1129.229      -178.853      252              TopLayer    TSOP75x-TR                               
+U28        -1018.692     -519.049      108              TopLayer    TSOP75x-TR                               
+U30        0.000         1123.620      360              TopLayer    ADAI-WS2812B_V                           
+U32        -1068.626     347.218       72               TopLayer    ADAI-WS2812B_V                           
+U34        -531.496      -740.158      144.459          TopLayer    ADAI-WS2812B_V                           
+U37        842.520       350.394       292.5            TopLayer    ADAI-WS2812B_V                           
+U38        421.260       -1027.559     216              TopLayer    ADAI-WS2812B_V                           
+X1         -484.251      196.850       360              TopLayer    ABRA-ABM3B-4_V                           
+X5         -19.685       -255.905      180              TopLayer    ABRA-ABS07-2_V                           
+U2         -208.661      814.960       360              TopLayer    TSSOP50P490X110-10N                      
+FB2        980.067       -708.661      360              TopLayer    MURA-BLM18-RF-H4-CHIP-2_V                
+D9         1092.649      -452.590      72               TopLayer    SFH-4645                                 
+D11        836.278       836.278       144              TopLayer    SFH-4645                                 
+D12        -1181.102     -192.913      288              TopLayer    SFH-4645                                 
+R96        974.410       698.819       90               TopLayer    RESC0805(2012)_M                         
+R97        -1196.850     23.622        270              TopLayer    RESC0805(2012)_M          33.00 Ohm      
+C63        901.574       -763.780      90               TopLayer    CAPC0402(1005)33_L        1pF            
+C66        866.141       -763.779      90               TopLayer    CAPC0402(1005)33_L        1pF            
+R56        795.276       -586.614      180              TopLayer    RESC0402(1005)_L          178000.00 Ohm  
+R60        901.575       -830.708      270              TopLayer    RESC0402(1005)_L          100000.00 Ohm  
+R78        295.275       11.811        270              TopLayer    RESC0402(1005)_M          33.00 Ohm      
+C115       224.410       165.354       90               TopLayer    CAPC0402(1005)60_L        100nF          
+C116       338.582       173.228       90               TopLayer    CAPC0402(1005)60_L        200pF          
+U18        259.842       278.071       180              TopLayer    SPH0645LM4H-B                            
+J1         203.472       -613.523      306              BottomLayer SMTC-SMM-110-02-X-S-LC                   
+J7         840.493       -150.701      306              BottomLayer SMTC-SMM-110-02-X-S-LC                   
+U40        352.504       740.157       180              BottomLayer QFN50P500X500X100_HS-33N                 
+C5         -641.732      149.607       180              BottomLayer CAPC0402(1005)60_L        100nF          
+C11        523.622       -346.456      270              BottomLayer CAPC0402(1005)60_L        100nF          
+C31        -200.788      657.480       180              BottomLayer CAPC0402(1005)60_L        100nF          
+C32        -200.788      385.827       180              BottomLayer CAPC0402(1005)60_L        100nF          
+C33        -618.110      503.936       90               BottomLayer CAPC0402(1005)60_L        100nF          
+C34        -610.236      417.324       360              BottomLayer CAPC0402(1005)60_L        100nF          
+C35        -610.236      381.889       360              BottomLayer CAPC0402(1005)60_L        10uF           
+C36        -641.732      618.110       270              BottomLayer CAPC0402(1005)60_L        100nF          
+C37        -602.362      618.111       270              BottomLayer CAPC0402(1005)60_L        100nF          
+C38        -614.173      311.023       360              BottomLayer CAPC0402(1005)60_L        100nF          
+C39        -405.512      846.456       90               BottomLayer CAPC0402(1005)33_L        1pF            
+C40        -192.914      870.078       180              BottomLayer CAPC0402(1005)60_L        20pF           
+C41        -405.512      728.346       90               BottomLayer CAPC0402(1005)33_L        15pF           
+C42        -366.142      728.346       90               BottomLayer CAPC0402(1005)33_L        15pF           
+C43        -307.086      905.512       180              BottomLayer CAPC0402(1005)33_L        1pF            
+C44        -425.196      944.882       360              BottomLayer CAPC0402(1005)33_L        1pF            
+C45        -625.985      263.779       360              BottomLayer CAPC0402(1005)60_L        10uF           
+C46        -195.867      349.409       180              BottomLayer CAPC0402(1005)60_L        1uF            
+C47        -129.922      716.535       180              BottomLayer CAPC0402(1005)60_L        20pF           
+C48        -346.456      787.402       180              BottomLayer CAPC0402(1005)33_L        1pF            
+C49        -716.535      629.921       180              BottomLayer CAPC0402(1005)60_L        20pF           
+C50        -779.527      326.772       360              BottomLayer CAPC0402(1005)60_L        20pF           
+C51        -3.938        921.260       90               BottomLayer CAPC0402(1005)33_L        0.1pF          
+C53        145.670       -287.402      90               BottomLayer CAPC0402(1005)60_L        100nF          
+C54        -1003.936     358.268       90               BottomLayer CAPC0402(1005)60_L        1uF            
+C55        -940.944      543.308       270              BottomLayer CAPC0402(1005)60_L        100nF          
+C56        51.182        -661.418      90               BottomLayer CAPC0402(1005)60_L        100nF          
+C57        574.803       -82.678       90               BottomLayer CAPC0402(1005)60_L        100nF          
+C58        503.938       -98.425       180              BottomLayer CAPC0402(1005)60_L        100nF          
+C59        -248.031      -763.779      180              BottomLayer CAPC0402(1005)60_L        100nF          
+C60        -960.630      106.300       90               BottomLayer CAPC0402(1005)60_L        100nF          
+C61        -307.086      -771.654      90               BottomLayer CAPC0402(1005)60_L        10uF           
+C62        -157.481      -759.842      180              BottomLayer CAPC0402(1005)60_L        100nF          
+C64        -570.866      -267.717      270              BottomLayer CAPC0402(1005)60_L        100nF          
+C65        519.685       -165.354      270              BottomLayer CAPC0402(1005)60_L        100nF          
+C67        3.937         66.929        90               BottomLayer CAPC0402(1005)60_L        100nF          
+C68        -82.677       -157.480      180              BottomLayer CAPC0402(1005)60_L        100nF          
+C69        -59.056       -15.748       270              BottomLayer CAPC0402(1005)60_L        100nF          
+C70        0.001         -43.307       270              BottomLayer CAPC0402(1005)60_L        100nF          
+C72        78.740        -224.410      180              BottomLayer CAPC0402(1005)60_L        100nF          
+C73        153.543       -216.536      360              BottomLayer CAPC0402(1005)60_L        100nF          
+C74        47.244        7.873         360              BottomLayer CAPC0402(1005)60_L        100nF          
+C82        -614.174      196.851       360              BottomLayer CAPC0402(1005)60_L        20pF           
+C85        -307.086      122.047       270              BottomLayer CAPC0402(1005)60_L        20pF           
+C89        -204.725      -299.212      90               BottomLayer CAPC0402(1005)60_L        20pF           
+C90        -240.157      -299.212      270              BottomLayer CAPC0402(1005)60_L        20pF           
+C91        515.749       846.457       180              BottomLayer CAPC0402(1005)60_L        2.2uF          
+C92        515.749       811.023       180              BottomLayer CAPC0402(1005)60_L        10uF           
+C93        531.496       740.157       180              BottomLayer CAPC0402(1005)60_L        2.2uF          
+C94        531.496       775.591       180              BottomLayer CAPC0402(1005)60_L        10uF           
+C95        531.496       704.725       180              BottomLayer CAPC0402(1005)60_L        2.2uF          
+C96        531.496       669.290       180              BottomLayer CAPC0402(1005)60_L        10uF           
+C97        236.221       610.237       360              BottomLayer CAPC0402(1005)60_L        2.2uF          
+C98        437.008       881.890       180              BottomLayer CAPC0402(1005)60_L        10uF           
+C99        343.647       535.433       90               BottomLayer CAPC0402(1005)60_L        2.2uF          
+C100       379.079       535.433       90               BottomLayer CAPC0402(1005)60_L        10uF           
+C101       255.906       956.693       90               BottomLayer CAPC0402(1005)60_L        20pF           
+C102       381.889       1157.481      180              BottomLayer CAPC0402(1005)60_L        20pF           
+C103       712.599       342.520       360              BottomLayer CAPC0402(1005)60_L        10pF           
+C104       531.496       598.424       360              BottomLayer CAPC0402(1005)60_L        1.5nF          
+C105       531.496       633.859       360              BottomLayer CAPC0402(1005)60_L        1.5nF          
+C106       531.496       523.622       360              BottomLayer CAPC0402(1005)60_L        1.2nF          
+C107       645.669       342.519       360              BottomLayer CAPC0402(1005)60_L        680pF          
+C108       712.599       307.087       360              BottomLayer CAPC0402(1005)60_L        200pF          
+C109       787.401       307.086       180              BottomLayer CAPC0402(1005)60_L        100pF          
+C110       787.401       342.519       360              BottomLayer CAPC0402(1005)60_L        20pF           
+C111       464.567       523.621       360              BottomLayer CAPC0402(1005)60_L        1.2nF          
+C112       645.669       307.087       360              BottomLayer CAPC0402(1005)60_L        680pF          
+C117       775.590       149.607       360              BottomLayer CAPC0402(1005)60_L        100nF          
+C118       775.590       114.173       360              BottomLayer CAPC0402(1005)60_L        200pF          
+C132       -653.543      740.157       180              BottomLayer CAPC0402(1005)60_L        100nF          
+C134       -921.260      -346.456      1.32319641113304 BottomLayer CAPC0402(1005)60_L        100nF          
+C136       1181.103      70.865        360              BottomLayer CAPC0402(1005)60_L        100nF          
+C137       15.749        -984.252      90               BottomLayer CAPC0402(1005)60_L        100nF          
+C140       562.992       1082.677      90.545120239258  BottomLayer CAPC0402(1005)60_L        100nF          
+CC1        -413.385      488.189       270              BottomLayer RGZ48-4100X4100TP                        
+F1         1043.307      578.740       108              BottomLayer LFUS-1812L050_V                          
+F2         -472.441      -696.851      360              BottomLayer LFUS-1812L11033MR_V                      
+J2         1089.718      266.399       288              BottomLayer FCI-10103594-0001LF_V                    
+J3         -731.618      -853.897      144              BottomLayer FCI-10103594-0001LF_V                    
+J4         746.411       -658.203      216              BottomLayer HIROSE_DM3AT-SF-PEJM5                    
+J5         -160.925      982.776       90               BottomLayer MS-156HF                                 
+J6         843.645       639.272       180              BottomLayer HRS-U.FL-R-SMT_V                         
+J8         843.646       486.713       180              BottomLayer MS-156HF                                 
+L4         -425.197      787.402       360              BottomLayer MURA-IND0402_V                           
+L5         -535.433      274.216       360              BottomLayer TDK-IND0805-125_V                        
+L6         -366.142      925.197       270              BottomLayer MURA-IND0402_V                           
+L7         -326.772      964.567       270              BottomLayer MURA-IND0402_V                           
+L8         -366.142      846.457       270              BottomLayer MURA-IND0402_V                           
+L9         661.417       566.929       180              BottomLayer COIL-1008CS_V                            
+L10        685.039       433.070       270              BottomLayer COIL-1008CS_V                            
+LS1        -551.181      -452.755      90               BottomLayer CMT-4023S-SMT                            
+P1         -99.802       522.048       270              BottomLayer MHDR2X5                                  
+P3         137.795       881.891       360              BottomLayer B2B-PH-K-S                               
+Q5         -787.401      -35.433       90               BottomLayer FAIR-SOT23-3_V                           
+Q6         -818.898      -228.346      90               BottomLayer FAIR-SOT23-3_V                           
+Q7         -744.094      -452.756      360              BottomLayer ONSC-SOT-23-3-318-08_V                   
+R1         -200.787      622.048       180              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R3         -200.787      570.866       180              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R5         -200.787      472.441       180              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R7         -200.787      421.260       180              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R26        598.426       244.094       360              BottomLayer RESC0402(1005)_L          1000.00 Ohm    
+R47        -614.173      346.458       180              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R48        -23.622       984.252       360              BottomLayer RESC0402(1005)_L          0.00 Ohm       
+R51        -1023.622     464.566       180              BottomLayer RESC0402(1005)_L          1000.00 Ohm    
+R52        31.496        -712.598      360              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R53        11.812        -661.417      90               BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R54        -996.062      106.299       90               BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R55        -1031.496     106.299       90               BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R58        -551.181      -216.535      180              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R59        -535.432      -267.716      270              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R64        200.787       -248.031      180              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R65        267.716       -248.031      360              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R70        15.748        -94.487       180              BottomLayer RESC0402(1005)_L          100000.00 Ohm  
+R72        -874.015      -59.055       90               BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R73        -700.788      -11.811       270              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R74        -925.197      -263.780      180              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R75        -795.275      -141.733      360              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+R76        791.339       377.953       360              BottomLayer RESC0402(1005)_L          0.00 Ohm       
+R80        767.717       192.913       180              BottomLayer RESC0402(1005)_M          33.00 Ohm      
+R81        -763.780      -551.181      180              BottomLayer RESC0402(1005)_L          10000.00 Ohm   
+SW5        -401.575      -240.157      360              BottomLayer JNFU-TVAF06_V                            
+SW7        82.678        -870.078      270              BottomLayer MK24                                     
+U13        -1007.874     531.497       180              BottomLayer YZF0008AHAH                              
+U19        880.433       185.039       270              BottomLayer SPH0645LM4H-B                            
+U31        -660.448      909.028       36               BottomLayer ADAI-WS2812B_V                           
+U33        -1068.626     -347.218      108              BottomLayer ADAI-WS2812B_V                           
+U35        1177.166      -106.299      252              BottomLayer ADAI-WS2812B_V                           
+U36        0.000         -1123.620     180              BottomLayer ADAI-WS2812B_V                           
+U39        660.448       909.028       324              BottomLayer ADAI-WS2812B_V                           
+X4         -452.756      153.543       360              BottomLayer ABRA-ABM3B-4_V                           
+X6         350.393       1019.684      90               BottomLayer ABRA-ABM3B-4_V                           
+U12        -1102.362     358.268       270              BottomLayer SON65P200X75-6N                          
+U14        492.127       -35.433       90               BottomLayer LGA4C65P2X4_200X250X95                   
+U15        -224.409      -665.354      180              BottomLayer QFN40P300X300X105_HS-25N                 
+U16        431.102       -177.166      360              BottomLayer SHT3x-DIS                                
+R69        -169.292      -334.646      270              BottomLayer RESC0402(1005)_L          6800.00 Ohm    
+R61        -220.473      -157.480      90               BottomLayer RESC0402(1005)_L          39.00 Ohm      
+R68        -255.906      -157.480      90               BottomLayer RESC0402(1005)_L          39.00 Ohm      
+X2         -204.724      775.591       90               BottomLayer ABRA-ABS07-2_V                           
+X3         -744.095      468.504       270              BottomLayer ABRA-ABM3B-4_V                           
